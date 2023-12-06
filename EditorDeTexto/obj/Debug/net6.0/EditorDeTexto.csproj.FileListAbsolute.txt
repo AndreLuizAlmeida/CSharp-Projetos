@@ -1,0 +1,15 @@
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/EditorDeTexto/bin/Debug/net6.0/EditorDeTexto
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/EditorDeTexto/bin/Debug/net6.0/EditorDeTexto.deps.json
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/EditorDeTexto/bin/Debug/net6.0/EditorDeTexto.runtimeconfig.json
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/EditorDeTexto/bin/Debug/net6.0/EditorDeTexto.dll
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/EditorDeTexto/bin/Debug/net6.0/ref/EditorDeTexto.dll
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/EditorDeTexto/bin/Debug/net6.0/EditorDeTexto.pdb
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/EditorDeTexto/obj/Debug/net6.0/EditorDeTexto.csproj.AssemblyReference.cache
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/EditorDeTexto/obj/Debug/net6.0/EditorDeTexto.GeneratedMSBuildEditorConfig.editorconfig
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/EditorDeTexto/obj/Debug/net6.0/EditorDeTexto.AssemblyInfoInputs.cache
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/EditorDeTexto/obj/Debug/net6.0/EditorDeTexto.AssemblyInfo.cs
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/EditorDeTexto/obj/Debug/net6.0/EditorDeTexto.csproj.CoreCompileInputs.cache
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/EditorDeTexto/obj/Debug/net6.0/EditorDeTexto.dll
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/EditorDeTexto/obj/Debug/net6.0/ref/EditorDeTexto.dll
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/EditorDeTexto/obj/Debug/net6.0/EditorDeTexto.pdb
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/EditorDeTexto/obj/Debug/net6.0/EditorDeTexto.genruntimeconfig.cache

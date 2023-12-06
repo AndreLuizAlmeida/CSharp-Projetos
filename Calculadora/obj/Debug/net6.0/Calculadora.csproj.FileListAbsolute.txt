@@ -1,0 +1,15 @@
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Calculadora/bin/Debug/net6.0/Calculadora
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Calculadora/bin/Debug/net6.0/Calculadora.deps.json
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Calculadora/bin/Debug/net6.0/Calculadora.runtimeconfig.json
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Calculadora/bin/Debug/net6.0/Calculadora.dll
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Calculadora/bin/Debug/net6.0/ref/Calculadora.dll
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Calculadora/bin/Debug/net6.0/Calculadora.pdb
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Calculadora/obj/Debug/net6.0/Calculadora.csproj.AssemblyReference.cache
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Calculadora/obj/Debug/net6.0/Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Calculadora/obj/Debug/net6.0/Calculadora.AssemblyInfoInputs.cache
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Calculadora/obj/Debug/net6.0/Calculadora.AssemblyInfo.cs
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Calculadora/obj/Debug/net6.0/Calculadora.csproj.CoreCompileInputs.cache
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Calculadora/obj/Debug/net6.0/Calculadora.dll
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Calculadora/obj/Debug/net6.0/ref/Calculadora.dll
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Calculadora/obj/Debug/net6.0/Calculadora.pdb
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Calculadora/obj/Debug/net6.0/Calculadora.genruntimeconfig.cache

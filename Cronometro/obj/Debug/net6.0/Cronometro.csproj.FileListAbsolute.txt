@@ -1,0 +1,15 @@
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Cronometro/bin/Debug/net6.0/Cronometro
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Cronometro/bin/Debug/net6.0/Cronometro.deps.json
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Cronometro/bin/Debug/net6.0/Cronometro.runtimeconfig.json
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Cronometro/bin/Debug/net6.0/Cronometro.dll
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Cronometro/bin/Debug/net6.0/ref/Cronometro.dll
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Cronometro/bin/Debug/net6.0/Cronometro.pdb
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Cronometro/obj/Debug/net6.0/Cronometro.csproj.AssemblyReference.cache
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Cronometro/obj/Debug/net6.0/Cronometro.GeneratedMSBuildEditorConfig.editorconfig
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Cronometro/obj/Debug/net6.0/Cronometro.AssemblyInfoInputs.cache
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Cronometro/obj/Debug/net6.0/Cronometro.AssemblyInfo.cs
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Cronometro/obj/Debug/net6.0/Cronometro.csproj.CoreCompileInputs.cache
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Cronometro/obj/Debug/net6.0/Cronometro.dll
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Cronometro/obj/Debug/net6.0/ref/Cronometro.dll
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Cronometro/obj/Debug/net6.0/Cronometro.pdb
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Cronometro/obj/Debug/net6.0/Cronometro.genruntimeconfig.cache

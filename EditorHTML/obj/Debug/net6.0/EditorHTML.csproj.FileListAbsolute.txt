@@ -1,0 +1,15 @@
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/EditorHTML/bin/Debug/net6.0/EditorHTML
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/EditorHTML/bin/Debug/net6.0/EditorHTML.deps.json
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/EditorHTML/bin/Debug/net6.0/EditorHTML.runtimeconfig.json
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/EditorHTML/bin/Debug/net6.0/EditorHTML.dll
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/EditorHTML/bin/Debug/net6.0/ref/EditorHTML.dll
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/EditorHTML/bin/Debug/net6.0/EditorHTML.pdb
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/EditorHTML/obj/Debug/net6.0/EditorHTML.csproj.AssemblyReference.cache
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/EditorHTML/obj/Debug/net6.0/EditorHTML.GeneratedMSBuildEditorConfig.editorconfig
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/EditorHTML/obj/Debug/net6.0/EditorHTML.AssemblyInfoInputs.cache
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/EditorHTML/obj/Debug/net6.0/EditorHTML.AssemblyInfo.cs
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/EditorHTML/obj/Debug/net6.0/EditorHTML.csproj.CoreCompileInputs.cache
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/EditorHTML/obj/Debug/net6.0/EditorHTML.dll
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/EditorHTML/obj/Debug/net6.0/ref/EditorHTML.dll
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/EditorHTML/obj/Debug/net6.0/EditorHTML.pdb
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/EditorHTML/obj/Debug/net6.0/EditorHTML.genruntimeconfig.cache
